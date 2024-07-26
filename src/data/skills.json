@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Figma",
+        "imageSrc": "nav/skills/figma.png"
+    },
+
+    {
+        "title": "React",
+        "imageSrc": "nav/skills/react.png"
+      },
+
+      {
+        "title": "Node",
+        "imageSrc": "nav/skills/node.png"
+      },
+
+      {
+        "title": "GraphQL",
+        "imageSrc": "nav/skills/graphql.png"
+      },
+
+      {
+        "title": "Unity",
+        "imageSrc": "nav/skills/Unity.jpg"
+
+      },
+
+      {
+        "title": "MongoDB",
+        "imageSrc": "nav/skills/mongodb.png"
+      }
+
+      
+]

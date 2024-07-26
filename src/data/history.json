@@ -1,0 +1,37 @@
+[
+    {
+        "role": "Technology Partnership Support Officer",
+        "organisation": "Kent County Council",
+        "startDate": "Aug 2023",
+        "endDate": "Present",
+        "experiences": ["Worked on automated processes", "Maintaining websites", "Building GIS Maps with APIs", "Project managing the acquisition of energy utility with a python analyst"]
+
+    },
+
+    {
+        "role": "Management Consulting Intern",
+        "organisation": "Career Internationalist Online",
+        "startDate": "June 2023",
+        "endDate": "Aug 2023",
+        "experiences": ["Analysed a boutique's business and proposed improvign sales", "Created a marketing and technology strategy", "Created ways to increase their engagement on websites using Google Analytics", "Used UiPath to leverage repetitive tasks"]
+
+    },
+
+    {
+        "role": "Data Analytics Work Experience",
+        "organisation": "Experian",
+        "startDate": "Oct 2022",
+        "endDate": "Nov 2022",
+        "experiences": ["Performed analysis of 20,000 data entries on BMW's target audience for a new launch", "Programmed on Java to analyse the data"]
+
+    },
+
+    {
+        "role": "Computing Student Ambassador & Events Manager",
+        "organisation": "University of Kent, and Women in STEM society",
+        "startDate": "Oct 2021",
+        "endDate": "Sept 2023",
+        "experiences": ["Supporting and leading campus events, workshops and outreach to other schools to encourage higher education", "Organised events attended by over 70 members", "Gained public speaking skills for initiating interviews on campus"]
+    }
+
+]
