@@ -1,10 +1,10 @@
 [
     {
-        "title": "Mixed Reality Game",
-        "imageSrc": "nav/projects/MRGAME.png",
-        "description": "Currently building a MR Game for the Meta Quest 3 Hack, featuring a puzzle box, with different themes, and a horror aspect. I am also building my own 2D game alone.",
-        "skills": ["Unity", "UI/UX design", "MR"],
-        "source": "https://github.com/SandhyaDassaye1/Game"
+        "title": "Hachiko 2D RGP Game",
+        "imageSrc": "nav/projects/hachikopicture.png",
+        "description": "I created a 2D RPG game using Unity, where you play as a Shiba Inu dog, trying to find your owner, while avoiding obstacles and completing quests from NPCs. The game was inspired by the story of Hachiko.",
+        "skills": ["Unity", "Game Design", "C#"],
+        "demo": "https://youtu.be/kQl3_sG1c4M"
 
     },
 

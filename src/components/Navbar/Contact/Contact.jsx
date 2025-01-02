@@ -19,7 +19,7 @@ export const Contact = () => {
 
                 <li className={styles.link}>
                 
-                    <a href="https://www.linkedin.com/in/sandhya-dassaye-92100a209/">linkedin.com/sandhya-dassaye-92100a209/</a>
+                    <a href="https://www.linkedin.com/in/sandhya-dassaye112/">linkedin.com/sandhya-dassaye112/</a>
                 </li>
 
                 <li className={styles.link}>
